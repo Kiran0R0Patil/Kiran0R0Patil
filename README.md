@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kiran0R0Patil
 - 👀 I’m interested in Front End Web developement.
-- 🌱 I’m currently learning JavaScript and Bootstrap.
+- 🌱 I’m currently learning JavaScript and front End Libraries.
 - 💞️ I’m looking to collaborate on Front end Responsive web design projects.
 - 📫 You can connect with me in [linkedin](https://www.linkedin.com/in/patilkiran123) 
