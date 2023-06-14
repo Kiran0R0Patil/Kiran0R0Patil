@@ -12,8 +12,6 @@ I am an ambitious individual pursuing a career in data analytics, seeking to lev
 - 🧠  I'm learning currently learning anything and everything about Data Science. 
 - 🤝  I'm open to collaborating on interesting projects
 
-<h3 align="center">A passionate frontend developer from India</h3>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/patilkiran123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patilkiran123" height="30" width="40" /></a>
