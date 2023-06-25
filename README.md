@@ -1,4 +1,4 @@
-# Hi 👋 My name is Kiran Patil
+# 👋 Hi, I'm Kiran Patil
 
 ## Data Science Professional in Training
 
