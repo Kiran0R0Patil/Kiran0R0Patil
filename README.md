@@ -4,7 +4,7 @@
 
 I am an ambitious individual pursuing a career in data analytics, seeking to leverage my skills and knowledge to drive meaningful insights and decision-making in organizations.
 
-
+I code in **Python** and **SQL**, and can do some **HTML/CSS**,**JavaScript**.
 
 - 🌍  I'm based in Bengaluru, Karnataka, INDIA
 - 🖥️  See my portfolio at [Website](http://kiran0r0patil.github.io/my-first-portfolio-demo/)
