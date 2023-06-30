@@ -14,8 +14,8 @@ I code in **Python** and **SQL**, and can do some **HTML/CSS**,**JavaScript**.
 
 ### Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/patilkiran123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patilkiran123" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kiranpatil7022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kiranpatil7022" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/patilkiran123" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patilkiran123" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kiranpatil7022" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kiranpatil7022" height="30" width="40" /></a>
 </p>
 
 ### Languages and Tools:
