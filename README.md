@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Kiran Patil
 
-*Data Science Professional in Training*
+*Data Science Professional*
 
-Experienced Data Professional, proficient in Python, machine learning,SQL.
+Proficient in Python, machine learning,SQL.
 
 Let's connect and collaborate!
 
