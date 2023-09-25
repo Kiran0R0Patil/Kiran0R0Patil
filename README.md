@@ -2,15 +2,17 @@
 
 ## Data Science Professional in Training
 
-I am an ambitious individual pursuing a career in data analytics, seeking to leverage my skills and knowledge to drive meaningful insights and decision-making in organizations.
+Experienced Data Professional, proficient in Python, machine learning,SQL.
+
+Let's connect and collaborate!
 
 I code in **Python** and **SQL**, and can do some **HTML/CSS**,**JavaScript**.
 
 - 🌍  I'm based in Bengaluru, Karnataka, INDIA
-- 🖥️  See my portfolio at [Website](http://kiran0r0patil.github.io/my-first-portfolio-demo/)
 - ✉️  You can reach me on [kiranpatil7022@gmail.com](mailto:kiranpatil7022@gmail.com)
 - 🧠  I'm learning currently learning anything and everything about Data Science. 
 - 🤝  I'm open to collaborating on interesting projects
+- 🖥️  See my portfolio at [Website](http://kiran0r0patil.github.io/my-first-portfolio-demo/)
 
 ### Connect with me:
 <p align="left">
