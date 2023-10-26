@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiran0r0patil&label=Profile%20views&color=0e75b6&style=flat" alt="kiran0r0patil" /> </p>
 
-- 🔭 I’m currently working on [seoul-bike-insights-and-predictions](https://www.kaggle.com/code/kiranpatil7022/seoul-bike-insights-and-predictions)
+- 🔭 I’m currently working on [employee-salary-insights-and-predictions](https://www.kaggle.com/code/kiranpatil7022/employee-salary-insights-and-predictions)
 
 - 🌱 I’m currently learning **python, machine learning**
 
