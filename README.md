@@ -3,12 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patilkiran123&label=Profile%20views&color=0e75b6&style=flat" alt="patilkiran123" /> </p>
 
-- 🔭 I’m currently working on [mlproject-1st-end-to-end](https://github.com/patilkiran123/mlproject-1st-end-to-end)
-
-- 🌱 I’m currently learning **python, machine learning**
-
-- 👨‍💻 All of my projects are available at [https://github.com/patilkiran123](https://github.com/patilkiran123)
-
 - 💬 Ask me about **machine learning, data analysis**
 
 - 📫 How to reach me **kiranpatil7022@gmail.com**
