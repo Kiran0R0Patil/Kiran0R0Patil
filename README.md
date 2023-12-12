@@ -1,20 +1,63 @@
-<h1 align="center">Hi 👋, I'm kiran patil</h1>
-<h3 align="center">A passionate data analyst/scientist from India</h3>
+# Data Scientist
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=patilkiran123&label=Profile%20views&color=0e75b6&style=flat" alt="patilkiran123" /> </p>
+### Work Experience
+Catalog Analyst, Amazon		
+06/2022 - 10/2023
+- Skills used: Excel, Power BI, Data analysis and reporting.
+- Data Procurement and Quality Assurance: Proficiently populated and procured data for products on the Amazon Retail Web Site, ensuring accurate and consistent product information for over 2 million products.
+- Automation and Efficiency Enhancement: Pioneered an innovative automation solution in collaboration with a business analyst, leveraging Python and Selenium to automate the task of updating product descriptions, reducing task completion time by 12.5%.
+-	Process Optimization and Project Allocation: Updated an SOP idea to streamline project allocation using TT's and other internal tools, reducing the time it takes to allocate projects to team members by 20%. 
+-	Leadership Initiatives: Team Lead, led daily team huddles, ensured the team consistently achieved their daily goals, and provided support to address and resolve any queries or doubts raised by team members.
 
-- 💬 Ask me about **machine learning, data analysis**
+### Projects
+1. AI Robotics Employee Salary Insights and Predictions
+11/2023 – 12/2023
+- Link: https://github.com/patilkiran123/student-performance
+- Modular Coding: Embraced modular programming for a cleaner and more maintainable codebase.
+-	Data Pipelining: Implemented robust data pipelining to streamline data processing and model training.
+-	Deployment-Ready Packages: Crafted the code with deployment in mind, making it easy to package and deploy.
+-	AWS Elastic Beanstalk Development: Launched the project on AWS Elastic Beanstalk, ensuring scalability and seamless management.
 
-- 📫 How to reach me **kiranpatil7022@gmail.com**
+ 
+2. AI Robotics Employee Salary Insights and Predictions
+10/2023 - 11/2023
+- Link: https://www.kaggle.com/code/kiranpatil7022/employee-salary-insights-and-predictions
+-	Conducted exploratory data analysis (EDA) and statistical analysis to identify trends, patterns, and relationships in AI robotics employee salary data.
+-	Initiated the development of feature engineering techniques to create new features from existing data attributes.
+-	Implemented machine learning models, with XGBRegressor excelling in performance metrics, successfully predicting salaries for 1,000,000 employees and offering valuable insights for workforce planning and resource allocation. 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/patilkiran123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="patilkiran123" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kiranpatil123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kiranpatil123" height="30" width="40" /></a>
-<a href="https://kaggle.com/kiranpatil7022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kiranpatil7022" height="30" width="40" /></a>
-</p>
+ 
+3. Predicting Bike Rent Duration in Seoul, South Korea
+09/2023 - 10/2023
+- Link: https://www.kaggle.com/code/kiranpatil7022/seoul-bike-insights-and-predictions
+-	Conducted comprehensive exploratory data analysis to unveil patterns and relationships within the dataset.
+-	Developed and trained distinct regression models. 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+ 
+4. SQL Company Database             
+08/2023 - 08/2023 
+- Link: https://github.com/patilkiran123/sql-company-database/blob/main/company-database.sql
+-	Designed and implemented a comprehensive SQL database schema to store company data.
+-	Developed efficient and effective SQL queries to retrieve specific data, such as all employees, all clients, and all employees ordered by salary.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=patilkiran123&show_icons=true&locale=en&layout=compact" alt="patilkiran123" /></p>
+ 
+5. Machine Learning-Powered Marketing Campaign Optimization   
+06/2023 - 07/2023
+- Link: https://github.com/patilkiran123/marketing-campaign-prediction
+-	Applied advanced resampling techniques and meticulous data cleaning and wrangling to fortify the model's robustness and ensure the optimization of targeted marketing strategies.
+-	Developed a high-accuracy machine learning model with 95.47% accuracy and 95.60% F1 score using Random Forest, incorporating intricate feature engineering for enhanced predictive performance.
+-	Enabled accurate identification of positive and negative customer responses through comprehensive feature engineering, contributing to enhanced campaign effectiveness.
+
+6. Call Center Analytics Dashboards	 
+06/2023 - 06/2023
+- Link: https://github.com/patilkiran123/pwc-switzerland-powerbi-in-data-analytics-virtual-case
+-	Cleaned and wrangled data to ensure accuracy and consistency.
+-	Developed and implemented a set of strategic DAX measures to analyze and interpret complex data, resulting in deeper insights into Call Center Analytics 
+-	Developed Power BI dashboards, visualizing trends and patterns to make it easy for users to identify opportunities for improvement.
+
+### Education
+B. Tech (Mechanical Engineering)
+REVA University, Bangalore
+2016 - 2020
+-	B. Tech final year Project Lead at Bharat Electronics Limited.
+-	I served as the Quartermaster in the Pre IGC-1 NCC Camp, effectively managing fifteen new cadets daily by assigning tasks related to food and refreshment distribution in the camp. Supervised the entire operation to ensure smooth execution and efficient performance of the cadets in their assigned duties.
