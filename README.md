@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kiranpatil7022@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RYi9XGQj00fKT2soS7LC026qS0SNPcTH/view?usp=drive_link](https://drive.google.com/file/d/1RYi9XGQj00fKT2soS7LC026qS0SNPcTH/view?usp=drive_link)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1IZznXi605nRdWjGwfiT6HIXMhc5GfL9s/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
