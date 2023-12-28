@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm kiran patil</h1>
-<h3 align="center">A passionate data analyst - scientist from India</h3>
+<h3 align="center">A passionate data analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patilkiran123&label=Profile%20views&color=0e75b6&style=flat" alt="patilkiran123" /> </p>
 
-- 🌱 I’m currently learning **Natural Language Processing.**
+- 🌱 I’m currently honing my **Data Analysis** Skills.
 
 - 👨‍💻 All of my projects are available at [https://patilkiran123.github.io/](https://patilkiran123.github.io/)
 
-- 💬 Ask me about **machine learning, data analysis**
+- 💬 Ask me about **data analysis, SQL, Power BI**
 
 - 📫 How to reach me **kiranpatil7022@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1IZznXi605nRdWjGwfiT6HIXMhc5GfL9s/view?usp=drive_link)
+- 📄 Know about my experiences [My Resume](https://patilkiran123.github.io/assets/resume/kiran_patil-data_analyst.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
