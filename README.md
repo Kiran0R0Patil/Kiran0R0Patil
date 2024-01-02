@@ -9,8 +9,6 @@ This unique blend of technical proficiency and practical experience positions me
 
 Let's connect, and explore how my skills and experience can contribute to the success of your data-driven projects.
 
-- 🌱 I’m currently honing **Data Analytics - python and machine learning** Skills.
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=patilkiran123&show_icons=true&locale=en&layout=compact" alt="patilkiran123" /></p>
 
 
