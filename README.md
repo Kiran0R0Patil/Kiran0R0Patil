@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm kiran patil</h1>
+<h1 align="center">Hi 👋, I'm Kiran Patil</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
 As an Analyst at Amazon, I help organizations leverage data to solve complex problems and drive business growth. I use Amazon Quicksight, Microsoft Power BI, Pandas, Matplotlib, SQL, Redshift and other tools to transform raw data into actionable insights that inform strategic decision-making. I have successfully delivered multiple projects, such as creating dashboards, reports, and visualizations for various clients and stakeholders.  
